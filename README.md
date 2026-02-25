@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Cynthia.
 
-- Currently learning C#, C and everyday learning something new in Java
+- Currently learning too many things at once. And maybe overthinking about projects
 <!--
 **CYNahko/CYNahko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
