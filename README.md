@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Cynthia.
+My name is Cynthia, a 19 year old Computer Science Student at Insper, who loves making projects related to my hobbies and some games as well.
 
 - Currently learning too many things at once. And maybe overthinking about projects
 <!--
