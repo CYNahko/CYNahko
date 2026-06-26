@@ -12,6 +12,7 @@ I build things — mostly backend systems and frontend visuals, sometimes games 
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=sql&logoColor=white)
 
 #### Frameworks:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
@@ -21,6 +22,9 @@ I build things — mostly backend systems and frontend visuals, sometimes games 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=50)
 ![Unity](https://img.shields.io/badge/Unity-%23FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### Skills:
 ![Agile](https://img.shields.io/badge/Agile_Methodology-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
